@@ -8,4 +8,4 @@ I demonstrate my professional expertise in various areas,
 -3D modeling of AirPods
 -video editing
 -stage setup
--recording presentations of AirPods and all products the stage
+-recording presentations of AirPods and all products on the stage
