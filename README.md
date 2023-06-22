@@ -1,5 +1,7 @@
 Year 1 I3D Assignment
 
+[Run MAXFILES.TXT before you run the .max file to apply the textures in the project.]
+
 Final Video Presentation
 https://youtu.be/RPPUxj8xVVM
 
